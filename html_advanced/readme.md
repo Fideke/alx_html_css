@@ -1,0 +1,1 @@
+html structure only - no css, no style - just pure html semantic
