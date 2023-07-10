@@ -262,6 +262,7 @@
          position: relative;
          z-index: 3;
          background: transparent;
+        
   }
   
   .header-logo {
@@ -282,6 +283,7 @@
     --nav-item-font-weight: normal;
     --nav-item-font-size: var(--font-size-small);
     padding: var(--footer-padding);
+  
   }
   
   .footer-copyright {
@@ -376,7 +378,7 @@
   /* Section SERVICES
      ============================= */
 
-    .section-services {
+    .section-services .row {
         flex-wrap: wrap;
     }
   
