@@ -1,0 +1,54 @@
+body
+{
+  
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+
+main
+{
+  
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    
+}
+
+article
+{
+flex: 2;
+overflow-y: auto;
+background-color: yellowgreen;
+
+}
+
+aside
+{
+flex: 1;
+overflow-y: auto;
+
+}
+
+.logo
+{
+    float: left;
+    
+}
+
+
+
+
+
+
+header div
+{
+ display: flex;
+    
+}
+
+
+   
+
