@@ -223,10 +223,7 @@
     margin: var(--nav-item-margin);
   }
 
-  .nav-item {
-  margin: 0 0 0 2rem;
-  }
-  
+
   .nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
@@ -261,6 +258,13 @@
     background-color: var(--color-primary);
     width: 100%;
   }
+
+  /* Variables */
+  :root {
+    --nav-item-margin: 0 0 0 2rem;
+  }
+  
+
   
   /* Header
       ============================= */
