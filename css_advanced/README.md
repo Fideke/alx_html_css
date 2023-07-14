@@ -1,0 +1,1 @@
+my second web design project from figma, more of advanced css and html, focusing only on the CSS and style of the page
